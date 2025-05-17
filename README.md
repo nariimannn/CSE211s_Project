@@ -1,3 +1,4 @@
+
 # ⏱️ Real-Time Clock & Voltage Display using Nucleo + Arduino Shield
 
 This project implements a **real-time clock (RTC)** and **analog voltage display** using an STM32 Nucleo board and an Arduino Multi-Function Shield.
@@ -48,10 +49,11 @@ This project implements a **real-time clock (RTC)** and **analog voltage display
 
 - `main.cpp` — Main application code with RTC and voltage display logic.
 - `README.md` — Project overview and documentation.
+- `demo.mp4` — Demo video showing the project in action.
 
-## 📸 Demo
+## 📺 Demo Video
 
-> *(Add a photo or video of the working project here if available)*
+[Click to watch the demo](./demo.mp4)
 
 ---
 
